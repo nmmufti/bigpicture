@@ -1,5 +1,5 @@
 # Tailwind Traders Website
-this branch is protected
+this branch is protected NOW
 ![Tailwind Traders Website](Documents/Images/Website.png)
 
 [![Build status](https://dev.azure.com/TailwindTraders/Website/_apis/build/status/Website-CI)](https://dev.azure.com/TailwindTraders/Website/_build?definitionId=22)
